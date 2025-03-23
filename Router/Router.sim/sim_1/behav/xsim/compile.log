@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/khush/Router/Router.srcs/sources_1/new/FIFO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module router_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/khush/Router/Router.srcs/sources_1/new/FSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module router_fsm
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/khush/Router/Router.srcs/sources_1/new/Reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module router_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/khush/Router/Router.srcs/sources_1/new/Sync.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module router_sync
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/khush/Router/Router.srcs/sources_1/new/Top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module router_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/khush/Router/Router.srcs/sim_1/new/Top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module router_top_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/khush/Router/Router.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
